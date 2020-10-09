@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1548965852 source:/media/zoldyck/Data/sudoku/game.cpp
+	"game.h"
+
+1548949274 source:/media/zoldyck/Data/sudoku/main.cpp
+	<iostream>
+	<cstdlib>
+	"game.h"
+
+1548948389 /media/zoldyck/Data/sudoku/grid.h
+	<cstdlib>
+	<iostream>
+
+1548945390 source:/media/zoldyck/Data/sudoku/grid.cpp
+	"grid.h"
+
+1548963084 /media/zoldyck/Data/sudoku/game.h
+	<algorithm>
+	"grid.h"
+
+1548971328 source:c:\users\pcmaroc\desktop\sudokud\sudoku\game.cpp
+	"game.h"
+	<sstream>
+
+1548968169 c:\users\pcmaroc\desktop\sudokud\sudoku\game.h
+	<algorithm>
+	<string>
+	"grid.h"
+
+1548948389 c:\users\pcmaroc\desktop\sudokud\sudoku\grid.h
+	<cstdlib>
+	<iostream>
+
+1548945390 source:c:\users\pcmaroc\desktop\sudokud\sudoku\grid.cpp
+	"grid.h"
+
+1548949274 source:c:\users\pcmaroc\desktop\sudokud\sudoku\main.cpp
+	<iostream>
+	<cstdlib>
+	"game.h"
+
+1548971328 source:c:\users\user\desktop\cours\2cpp - c++ language\sudokud\sudoku\game.cpp
+	"game.h"
+	<sstream>
+
+1548968169 c:\users\user\desktop\cours\2cpp - c++ language\sudokud\sudoku\game.h
+	<algorithm>
+	<string>
+	"grid.h"
+
+1548948389 c:\users\user\desktop\cours\2cpp - c++ language\sudokud\sudoku\grid.h
+	<cstdlib>
+	<iostream>
+
+1548945390 source:c:\users\user\desktop\cours\2cpp - c++ language\sudokud\sudoku\grid.cpp
+	"grid.h"
+
+1548949274 source:c:\users\user\desktop\cours\2cpp - c++ language\sudokud\sudoku\main.cpp
+	<iostream>
+	<cstdlib>
+	"game.h"
+
